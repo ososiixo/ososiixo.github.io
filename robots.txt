@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ososiixo.github.io/FmD/sitemap_index.txt
+Sitemap: https://ososiixo.github.io/Ily/sitemap_index.txt
+Sitemap: https://ososiixo.github.io/NMD/sitemap_index.txt
+Sitemap: https://ososiixo.github.io/via/sitemap_index.txt
